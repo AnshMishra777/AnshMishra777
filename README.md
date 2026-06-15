@@ -50,7 +50,7 @@ React Calculator
 
 ## 📬 Connect With Me
 
-LinkedIn:linkedin.com/in/ansh-ranjan-mishra-501338373
+LinkedIn:https://in.linkedin.com/in/ansh-ranjan-mishra-501338373
 
 LeetCode:https://leetcode.com/u/Adonisansh_011/
 
