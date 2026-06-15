@@ -50,11 +50,12 @@ React Calculator
 
 ## 📬 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn:linkedin.com/in/ansh-ranjan-mishra-501338373
 
-LeetCode: YOUR_LEETCODE
+LeetCode:https://leetcode.com/u/Adonisansh_011/
 
 Email: anshranjanmishra6@gmail.com
+
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
